@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a brief discourse concerning singing in the publick worship of God in the Gospel-church, by I. M. 1690</title>
+            <author>Knollys, Hanserd, 1599?-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87816</idno>
+            <idno type="STC">Wing K703C</idno>
+            <idno type="STC">ESTC R227257</idno>
+            <idno type="EEBO-CITATION">99896361</idno>
+            <idno type="PROQUEST">99896361</idno>
+            <idno type="VID">154236</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87816)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154236)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2406:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a brief discourse concerning singing in the publick worship of God in the Gospel-church, by I. M. 1690</title>
+                  <author>Knollys, Hanserd, 1599?-1691.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author H. K.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>H. K. = Hanserd Knollys.--Wing (CD-ROM edition).</note>
+                  <note>I. M. = Isaac Marlow.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marlow, Isaac --  Early works to 1800.</term>
+               <term>Music in churches --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154236:1"/>
+            <!-- PDF PAGE 71 -->
+            <pb facs="tcp:154236:1"/>
+            <!-- PDF PAGE 71 -->
+            <p>AN ANSWER TO A Brief Diſcourſe CONCERNING SINGING In the publick <hi>Worſhip of God</hi> IN THE GOSPEL-CHURCH,</p>
+            <p>By <hi>J. M.</hi> 1690.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author <hi>H. K.</hi> 1691.</p>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:154236:2"/>
+            <!-- PDF PAGE 72 -->
+            <pb facs="tcp:154236:2"/>
+            <!-- PDF PAGE 72 -->
+            <opener>
+               <salute>Beloved Brother,</salute>
+            </opener>
+            <p>
+               <hi>THe Apoſtle</hi> James <hi>ſaith,</hi> (Chap. 5. v. 19.20.) Brethren, if any of you do err from the <hi>Truth,</hi> and one Convert him; Let him know, that he which Converteth a Sinner from the Errour of his Way, ſhall Save a Soul from Death, and ſhall hide a Multitude of Sins.</p>
+            <p>
+               <hi>I have read your Little Book <hi>(which you gave me)</hi> con<g ref="char:EOLhyphen"/>cerning Singing. And now af<g ref="char:EOLhyphen"/>ter Prayers to <hi>GOD,</hi> and
+<pb facs="tcp:154236:3"/>
+                  <!-- PDF PAGE 73 -->Serious Conſideration of what you have ſaid therein; I re<g ref="char:EOLhyphen"/>turn you this Brief <hi>Anſwer,</hi> which I do intreat you to Con<g ref="char:EOLhyphen"/>ſider: So I remain,</hi>
+            </p>
+            <closer>
+               <signed>Your Brother, In our Lord JESUS CHRIST,
+<hi>H. K.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154236:3"/>
+            <!-- PDF PAGE 73 -->
+            <head>AN ANSWER To a Brief Diſcourſe Concerning Singing, <hi>&amp;c.</hi>
+            </head>
+            <p>THE Subject that you intended to treat of <hi>(expreſſed in the Title page of your Book)</hi> is, <q>Singing in the Publick Worſhip of God in the Goſpel-Church:</q> 
+               <hi>That is,</hi> ſay you, <hi>pag.</hi> 5. <hi>lin.</hi> 1, 2, 3. The Primitive and Apoſtolical Church; your words are theſe: <q>ſpiritual and vocal Singing was uſed in the Primitive and Apoſtolical Church of Chriſt, is undeniable.</q> You alſo confeſs in your <hi>firſt,</hi> 5th. <hi>pag. lin.</hi> 28, 29, 30. <hi>That Vocal Singing, Coloſſ.</hi> 3.16. <hi>is there to be un<g ref="char:EOLhyphen"/>derſtood, &amp;c.</hi> And in your <hi>ſecond,</hi> 5th. <hi>pag. lin.</hi> 20, 21, 22. <q>Intelligible Singing <hi>(ſay you)</hi> for teaching and admoniſhing others, cannot be without the uſe of the Organi<g ref="char:EOLhyphen"/>cal Inſtruments of the Voice.</q>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:154236:4"/>
+               <!-- PDF PAGE 74 -->
+I beſeech you <hi>(my Beloved Brother)</hi> to conſider, that Singing in the Publick Wor<g ref="char:EOLhyphen"/>ſhip of God, in the Apoſtle's <hi>daies,</hi> was not only uſed and practiſed <hi>(as you have con<g ref="char:EOLhyphen"/>feſſed again and again)</hi> but Commanded by the Apoſtle <hi>Paul, Col.</hi> 3.16. where the word <hi>Let</hi> hath the Force of a Commandment of God; as <hi>Eph.</hi> 4.29. <hi>Phil.</hi> 1.27. <hi>Eph.</hi> 5.33. <hi>Jam.</hi> 5.13. <hi>Read the words, eſpecially</hi> conſi<g ref="char:EOLhyphen"/>der what you ſay concerning Women, 1 <hi>Cor.</hi> 14.34. <hi>Let your Women keep ſilence in the Church:</hi> And, 1 <hi>Tim.</hi> 2.11. <hi>Let the Wo<g ref="char:EOLhyphen"/>men learn in ſilence with all ſubjection. Pag.</hi> 21. <hi>line</hi> 12, 13, 14, 15, 16, 17. read your own words; You ſay, <hi>p.</hi> 5. <hi>lin.</hi> 5. <q>But the <hi>Que<g ref="char:EOLhyphen"/>ſtion</hi> is, Whether <hi>David</hi>'s Pſalms, or any Human preſcribed or precompoſed Matter may, or ought not to be vocally ſung by all the Church together, as part of the publick, conſtant, and ordinary Worſhip of God, inſtituted in his Goſpel-Church.</q>
+            </p>
+            <p>You had done fairly, to have put this your Queſtion in the Title Page of your Book, but there is not one word of it there, except what you have confeſſed and gran<g ref="char:EOLhyphen"/>ted, again and again, (as I have already no<g ref="char:EOLhyphen"/>ted out of divers Pages of your Book.) And ſo I proceed to offer ſomething to your ſerious conſideration, about the Eſ<g ref="char:EOLhyphen"/>ſence
+<pb n="3" facs="tcp:154236:4"/>
+               <!-- PDF PAGE 74 -->or Being of Singing; <q>Which, <hi>you ſay,</hi> conſiſts in an Inward Spiritual Exer<g ref="char:EOLhyphen"/>ciſe of the Soul or Mind of Man, <hi>p.</hi> 5. <hi>lin.</hi> 24, 25, 26. <hi>And this muſt be granted, ſay you.</hi>
+               </q>
+            </p>
+            <p>No Brother! You muſt not take it for granted, until your Reaſons or Arguments be examined, which you bring to prove it. You affirm, <hi>p.</hi> 6. <hi>lin.</hi> 9, 10, 11, 12. <q>That the Scriptures do clearly witneſs, That the Eſſence of Prayer and Praiſes, and of Sin, do all conſiſt in an inward Exer<g ref="char:EOLhyphen"/>ciſe of the Soul and Spirit.</q> And from thence you conclude, That the Eſſence or Being of Singing conſiſts in the inward Spiritual Exerciſe of the Soul or Mind of Man. If you conſult with any Logician, he can ſhew you the Weakneſs of your Conſequence in this Argument.</p>
+            <p>Now, the Eſſence or Being of Singing in the Church of God, unto edifying, conſiſts in the Voice, <hi>as well as</hi> in the Soul or Mind of Man: <hi>Page</hi> 16. <hi>lin.</hi> 16, 17. you ſay right <hi>pag.</hi> 9. <hi>lin.</hi> 9, 10. <q>We find in Scripture another kind of Singing, 1 <hi>Chron.</hi> 16.32, 33. &amp; <hi>Pſal.</hi> 65.13. <hi>that is, the Virtual,</hi> or Metaphorical <hi>Singing of the Creatures.</hi>
+               </q> But there is no other kind of Singing in the Publick
+<pb n="4" facs="tcp:154236:5"/>
+               <!-- PDF PAGE 75 -->Worſhip of God in the Goſpel-Church, unto edifying without the Voice. You ſhould have put the Voice into the <hi>Eſſence</hi> or <hi>Being</hi> of this kind of Singing: The natural kind of the Sing<g ref="char:EOLhyphen"/>ing of Birds, and of little Children, is not without Voices, and Organical Inſtruments of the Voice: You have neither Scripture nor ſound Reaſon for your Opinion about Singing without the Voice, unto edifying in the Church of Jeſus Chriſt. You bring a Scripture to prove Silent Singing in the Church, 1 <hi>Cor.</hi> 14.26, 27, 28. All I need to ſay in anſwer to what you have ſaid, <hi>p.</hi> 7, 8, 9. is, to ſhew you, that you are miſtaken in the Mind of Chriſt and his A<g ref="char:EOLhyphen"/>poſtle in that Scripture. The Apoſtle mentioneth divers Gifts, <hi>ver.</hi> 26. a Pſalm, a Doctrin, a Tongue, a Revelation, an In<g ref="char:EOLhyphen"/>terpretation: Then he exhorted them, ſay<g ref="char:EOLhyphen"/>ing, <hi>Let all things be done to edifying;</hi> and <hi>ver.</hi> 27. <hi>If any Man ſpeak in an unknown Tongue, let it be by two, or, at moſt, by three, and that by courſe, and let one in<g ref="char:EOLhyphen"/>terpret; but if there be no Interpreter, let him keep Silence in the Church.</hi> What is this to ſilent Singing in the Church, any more than if you had brought it to juſti<g ref="char:EOLhyphen"/>fie the <hi>ſilent</hi> Meetings of them called Qua<g ref="char:EOLhyphen"/>kers. Then, <hi>p.</hi> 8. <hi>l.</hi> 20, 21, <hi>&amp;c.</hi> ſay you,
+<pb n="5" facs="tcp:154236:5"/>
+               <!-- PDF PAGE 75 -->
+               <q>What can be more plain, than that Sing<g ref="char:EOLhyphen"/>ing and other Gifts of the Holy Spi<g ref="char:EOLhyphen"/>rit have their Eſſences in our Spirits, wherein we are capable of worſhipping God <hi>acceptably,</hi> without the verbal and vocal Inſtruments of the Body.</q>
+            </p>
+            <p>O my Brother! I know you are not one of them that approve of ſilent Meet<g ref="char:EOLhyphen"/>ings, who ſuppoſing that they have <hi>a Light</hi> within them, whereby they are ca<g ref="char:EOLhyphen"/>pable to worſhip God <hi>acceptably</hi> without his Goſpel-Ordinances of Baptiſm, the Lord's Supper, and Singing without ver<g ref="char:EOLhyphen"/>bal and vocal Inſtruments in their <hi>Silent</hi> Meetings. In a word, This <hi>unſound</hi> Opi<g ref="char:EOLhyphen"/>nion of yours, will lead you, and others of the ſame mind, into ſome Erroneous Principles of them called Seekers, Quakers, and ſuch as are for Non-Churches, if God do not prevent by his Holy Spirit and Grace, or reſtrain.</p>
+            <p>The next Particular you treat of, is <hi>Da<g ref="char:EOLhyphen"/>vid</hi>'s Pſalms, <hi>p.</hi> 9, to <hi>p.</hi> 15. where you la<g ref="char:EOLhyphen"/>bour to prove, That <hi>David</hi>'s Pſalms ought not to be ſung in the Churches of Chriſt, in the days of the Goſpel. (I have pro<g ref="char:EOLhyphen"/>ved, that the Apoſtle <hi>Paul</hi> commanded the Saints and Faithful Brethren in Chriſt, <hi>Col.</hi> 1.2. to ſing Pſalms, <hi>Col.</hi> 3.16. <hi>that is,
+<pb n="6" facs="tcp:154236:6"/>
+                  <!-- PDF PAGE 76 -->David</hi>'s Pſalms. Read thoſe Scriptures, <hi>Luk.</hi> 20.42. &amp; 24.44. <hi>And David himſelf ſaith in the Book of Pſalms, The Lord ſaid un<g ref="char:EOLhyphen"/>to my Lord, ſit thou on my right hand. And he ſaid unto them, Theſe are the words which I ſpake unto you, while I was yet with you, that all things muſt be fulfilled which were written in the Law of</hi> Moſes, <hi>and in the Prophets, and in the Pſalms concerning me.</hi> Acts 1.20. &amp; 13.33. <hi>For it is written in the book of Pſalms, Let his habitation be deſolate, and let no man dwell therein: and, his Biſhoprick let another take. God hath fulfilled the ſame unto us their Children, in that he hath raiſed up Jeſus a<g ref="char:EOLhyphen"/>gain; as it is alſo written in the ſecond Pſalm, Thou art my Son, this day have I begotten thee.</hi> You cannot ſhew where the word Pſalms are underſtood of any other, but only <hi>Da<g ref="char:EOLhyphen"/>vid</hi>'s Pſalms, called <hi>The Book of Pſalms.</hi>
+            </p>
+            <p>But you having no Scripture againſt Singing of <hi>David</hi>'s Pſalms, do ſeem to rea<g ref="char:EOLhyphen"/>ſon, and argue againſt ſinging of them, <hi>firſt</hi> becauſe the Church of Chriſt is now in a Wilderneſs-condition, and in a mourning Sackcloth-ſtate, <hi>p.</hi> 12. <hi>l.</hi> 13,—21. But the Wilderneſs-ſtate of the Church under the Goſpel, (<hi>Iſa.</hi> 52.7, 8, 9. <hi>How beautiful upon the Mountains are the feet of him that bring<g ref="char:EOLhyphen"/>eth good tydings, that publiſheth peace, that
+<pb n="7" facs="tcp:154236:6"/>
+                  <!-- PDF PAGE 76 -->bringeth good tydings of good, that publiſheth ſalvation, that ſaith unto</hi> Zion, <hi>Thy God reign<g ref="char:EOLhyphen"/>eth! Thy Watchmen ſhall lift up the voice, with the voice together ſhall they ſing: for they ſhall ſee eye to eye, when the Lord ſhall bring again</hi> Zion. <hi>Break forth into joy, ſing together ye waſte places of</hi> Jeruſalem: <hi>for the Lord hath comforted his people, he hath re<g ref="char:EOLhyphen"/>deemed</hi> Jeruſalem) ſhould not hinder the Churches and Servants of God to ſing Pſalms, Hymns, and Spiritual Songs, ma<g ref="char:EOLhyphen"/>king Melody in their Hearts to the Lord Was not Chriſt and his Diſciples in a mourning condition, the ſame night out Bleſſed Saviour was betray'd? yet they ſung an Hymn, <hi>Mat.</hi> 26.30. <hi>Mark</hi> 14.26. Was not the Condition of <hi>Paul</hi> and <hi>Silas</hi> a Wilderneſs-condition? <hi>Act.</hi> 16.23.—30. <hi>And when they had laid many Stripes upon them, they caſt them into priſon, charging the Jaylor to keep them ſafely: Who having re<g ref="char:EOLhyphen"/>ceived ſuch a Charge, thruſt them into the in<g ref="char:EOLhyphen"/>ner priſon, and made their feet faſt in the ſtocks: And at midnight</hi> Paul <hi>and</hi> Silas <hi>pray<g ref="char:EOLhyphen"/>ed, and ſang praiſes unto God: and the priſo<g ref="char:EOLhyphen"/>ners heard them. And ſuddenly there was a great Earthquake, ſo that the Foundations of the Priſon were ſhaken: and immediately all the doors were opened, and every ones bands
+<pb n="8" facs="tcp:154236:7"/>
+                  <!-- PDF PAGE 77 -->were looſed. And the Keeper of the Priſon awaking out of his ſleep, and ſeeing the Pri<g ref="char:EOLhyphen"/>ſon-doors open, he drew out his Sword, and would have killed himſelf, ſuppoſing that the Priſoners had been fled: But</hi> Paul <hi>cried with a loud voice, ſaying, Do thy ſelf no harm, for we are all here. Then he called for a light, and ſprang in, and came trembling, and fell down before</hi> Paul <hi>and</hi> Silas; <hi>and brought them out, and ſaid, Sirs, What muſt I do to be ſaved?</hi> Yet they ſang Praiſes to God; and God wrought a notable Miracle of Confirmation, not only an Earthquake, that ſhaked the Foundations of the Priſon, opened all the Priſon Doors, and every one's Bands were looſed, and the Keeper of the Priſon was terribly affrighted and converted, <hi>ver.</hi> 34.</p>
+            <p>You ſay, <hi>p.</hi> 29. <hi>l.</hi> 26. <q>The word <hi>Sung</hi> is not in the Greek:</q> But it is there read, <hi>And they having hymned.</hi> 
+               <q>Which word, <hi>ſay you,</hi> is taken by divers Learned Men to be of a general ſignification of all kinds of Praiſes or Thankſgivings,</q> and not confined to Songs only. Neither do I confine the ſignification thereof only to Songs: Yet <hi>Beza</hi> tranſlates <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>quum hymnum ceciniſſent, When they had ſung an Hymn. Screvilius</hi> and <hi>Hill,</hi> in their Greek
+<pb n="9" facs="tcp:154236:7"/>
+               <!-- PDF PAGE 77 -->Lexicon, tranſlate <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>celebro, hymnum cano;</hi> and learned Dr. <hi>Owen,</hi> upon <hi>Heb.</hi> 2.12. [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which the Learned Tranſlaters do read, <hi>In the midſt of the Church will I ſing Praiſes unto thee</hi>] hath theſe words in his Expoſition, <hi>viz.</hi> 
+               <q>It is declared further, <hi>firſt,</hi> what Chriſt will moreover do; <hi>He will ſing Praiſes unto God. Secondly,</hi> where he will do it; <hi>In the midſt of the Congregation or Church.</hi>
+               </q> So that it is manifeſted, <hi>ſay you,</hi> from the a<g ref="char:EOLhyphen"/>foreſaid Premiſes, that praiſing of God is not limitted to Songs of Praiſe. I do not limit the ſignification of the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> on<g ref="char:EOLhyphen"/>ly to Songs; neither you, nor all the Lear<g ref="char:EOLhyphen"/>ned Men and Books in <hi>Sion-College</hi> can prove that the word ſignifies the Eſſence of Singing <hi>(without the Voice)</hi> in Heart and Mind only; <hi>eſpecially, Col.</hi> 3.16. if a Mini<g ref="char:EOLhyphen"/>ſter of the Church, who hath received a ſpiritual Gift to ſing an Hymn or a ſpiritual Song, do ſing in the Church; as 1 <hi>Cor.</hi> 14.15, 16, 26. <hi>What is it then? I will pray with the Spirit, and I will pray with the <g ref="char:V">Ʋ</g>nderſtan<g ref="char:EOLhyphen"/>ding alſo; I will ſing with the Spirit, and I will ſing with the <g ref="char:V">Ʋ</g>nderſtanding alſo. Elſe, when thou ſhalt bleſs with the Spirit, how ſhall he that occupieth the room of the unlearned, ſay Amen at thy giving of Thanks, ſeeing he un<g ref="char:EOLhyphen"/>derſtandeth
+<pb n="10" facs="tcp:154236:8"/>
+                  <!-- PDF PAGE 78 -->not what thou ſayeſt? How is it then, Brethren? when ye come together, eve<g ref="char:EOLhyphen"/>ry one of you hath a Pſalm, hath a Doctrin, hath a Tongue, hath a Revelation, hath an In<g ref="char:EOLhyphen"/>terpretation. Let all things be done to edi<g ref="char:EOLhyphen"/>fying;</hi> may, and <hi>in my opinion ought</hi> to ad<g ref="char:EOLhyphen"/>miniſter his Gift, 1 <hi>Pet.</hi> 4.10, 11. <hi>As every man hath received the Gift, even ſo miniſter the ſame one to another, as good ſtewards of the manifold Grace of God. If any man ſpeak, let him ſpeak as the Oracles of God; if any man miniſter, let him do it as of the ability which God giveth; that God in all things may be glorified through Jeſus Chriſt; to whom be Praiſe and Dominion for ever and ever. Amen.</hi> Yet this I confeſs, That thoſe Hymns and Spiritual Songs, which they ſing in the Spi<g ref="char:EOLhyphen"/>rit, and with underſtanding, unto edifying, <hi>are not</hi> thoſe <hi>Pſalms of David,</hi> which the A<g ref="char:EOLhyphen"/>poſtle mentions, <hi>Col.</hi> 3.16. as I have proved before: Neither will thoſe Miniſters or Members of the Churches of Saints, that ſing Hymns or ſpiritual Songs, affirm or aſſert, that they are <hi>David</hi>'s Pſalms, Hymns, and ſpiritual Songs, <hi>Col.</hi> 3.16, no, nor given them by the Inſpiration of the Holy Spirit, as the Book of Pſalms was.</p>
+            <p>And <hi>p.</hi> 14. <hi>l.</hi> 10, 11, 12. you ſay, <q>Some of the Pſalms were clear Prophecies of the
+<pb n="11" facs="tcp:154236:8"/>
+                  <!-- PDF PAGE 78 -->Sufferings of Chriſt, which to ſing now, were to <hi>deny,</hi> That Chriſt is come in the Fleſh.</q> If this Argument was good, it would alſo follow, That to Read thoſe Pſalms now, was to deny, That Chriſt is come in the Fleſh.</p>
+            <p>And <hi>p.</hi> 15. <hi>l.</hi> 4, 5, 6, 7, 8. You ſay, <q>There is no Inſtance can be given in the New Teſtament, that any of <hi>Davids</hi> Pſalms were ever Sung by any Perſons, or Churches, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>And yet you ſay, affirm, and confeſs, That Vocal Singing of Pſalms, Hymns, and Spiritual Songs, was practiſed in thoſe Churches of <hi>Epheſus</hi> and <hi>Coloſs,</hi> p. 5. <hi>l.</hi> 20, 21, 22, 23. &amp; <hi>p.</hi> 5. <hi>l.</hi> 1, 2, 3, 4. And you ſay Vocal Singing was uſed in the Pri<g ref="char:EOLhyphen"/>mitive and Apoſtolical Church of Chriſt.</p>
+            <p>But Women may not ſpeak in the Church, and therefore they may not Sing, <hi>p.</hi> 21. for Singing is Teaching. Why do the Churches of Saints require Women to declare the Work of Converſion, in the Church? Or to bear Witneſs of the diſ<g ref="char:EOLhyphen"/>orderly Walking of any Brother or Si<g ref="char:EOLhyphen"/>ſter, if they may not ſpeak in the Church. Women have the Eſſence of Singing <hi>(as well as Men)</hi> both in their Souls, and with their Voices; and are allowed to
+<pb n="12" facs="tcp:154236:9"/>
+               <!-- PDF PAGE 79 -->ſpeak by all the Churches of Saints.</p>
+            <p>Many other things you have ſaid, and many Objections you have Propounded and Anſwer'd, in which I am not willing to ſhew your Weakneſs; but leave you and others of your Perſwaſion therein, to Conſider what I have ſaid, and pray, that GOD will Convince you of your Er<g ref="char:EOLhyphen"/>rour, and make known unto you His Revealed Will in the Holy Scripture of Truth.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154236:9"/>
+            <!-- PDF PAGE 79 -->
+         </div>
+      </body>
+   </text>
+</TEI>
